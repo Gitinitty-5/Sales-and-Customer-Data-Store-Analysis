@@ -57,6 +57,7 @@ inconsistencies.
 
 4. DATA TRANSFORMATION
 Data was extracted, transformed and loaded into Looker studio for modeling and visualiaztion.
+(https://lookerstudio.google.com/u/0/reporting/4eb66efe-ded1-447e-a5f9-eb8c47578dda/page/u6JtD/edit)
 
 
 
